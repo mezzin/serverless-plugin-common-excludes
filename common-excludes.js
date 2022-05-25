@@ -75,7 +75,7 @@ module.exports = class CommonExcludes {
       '!node_modules/**/examples/**',
       '!node_modules/**/coverage/**',
       '!node_modules/**/.nyc_output/**',
-      '!node_modules/**/bin/**',
+//       '!node_modules/**/bin/**',
       '!node_modules/**/bower.json',
       '!node_modules/**/karma.conf.js',
       '!node_modules/**/Gruntfile.js',
